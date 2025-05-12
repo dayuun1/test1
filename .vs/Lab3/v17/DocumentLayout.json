@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\Lab3\\",
-  "Documents": [],
+  "WorkspaceRootPath": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{904CC2B9-2DF9-4ADC-B536-277927E5DC28}|Task1\\Task1.csproj|e:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u043F\u0437 \u043B\u0430\u0431\u0438\\test\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904CC2B9-2DF9-4ADC-B536-277927E5DC28}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedHeight": 15,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\test\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "E:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u041F\u0417 \u043B\u0430\u0431\u0438\\test\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:40:41.925Z",
+              "EditorCaption": ""
             }
           ]
         }

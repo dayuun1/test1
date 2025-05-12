@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Навчання\\КПЗ лаби\\Lab3\\Task5-6\\Task5-6.csproj",
+      "projectUniqueName": "E:\\Навчання\\КПЗ лаби\\test\\Task5-6\\Task5-6.csproj",
       "projectName": "Task5-6",
-      "projectPath": "E:\\Навчання\\КПЗ лаби\\Lab3\\Task5-6\\Task5-6.csproj",
+      "projectPath": "E:\\Навчання\\КПЗ лаби\\test\\Task5-6\\Task5-6.csproj",
       "packagesPath": "C:\\Users\\vonso\\.nuget\\packages\\",
-      "outputPath": "E:\\Навчання\\КПЗ лаби\\Lab3\\Task5-6\\obj\\",
+      "outputPath": "E:\\Навчання\\КПЗ лаби\\test\\Task5-6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
