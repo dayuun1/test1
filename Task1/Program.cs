@@ -82,7 +82,7 @@ class Program
         var fileWriter = new FileWriter("E:\\Навчання\\КПЗ лаби\\Lab3\\Task1\\log.txt");
         var fileLogger = new FileLoggerAdapter(fileWriter);
 
-        fileLogger.Log("info");
+        fileLogger.Log("info1");
         fileLogger.Error("error");
         fileLogger.Warn("warn");
         Console.WriteLine("logs are recorded ");
