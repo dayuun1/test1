@@ -83,7 +83,7 @@ class Program
         var fileLogger = new FileLoggerAdapter(fileWriter);
 
         fileLogger.Log("info1");
-        fileLogger.Error("error");
+        fileLogger.Error("error1");
         fileLogger.Warn("warn");
         Console.WriteLine("logs are recorded ");
     }
